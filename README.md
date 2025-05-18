@@ -12,7 +12,8 @@ A web-based Student Management System designed to simplify the process of managi
 - Simple and responsive UI
 - Backend integration for data handling
 
-Sure, Krushna! Here's a clear and concise **purpose** statement for your **web-based Student Management System** project that you can include in your `README.md` file or project report.
+## 🌍 Live Demo
+👉 [**View**](https://v0-student-management-project.vercel.app/)  
 
 ---
 
